@@ -1,0 +1,17 @@
+{
+  "addOns": {
+    "common": {
+      "name": "Webinaire interactif POC",
+      "logoUrl": "https://ORIGINE/logo.png"
+    },
+    "meet": {
+      "web": {
+        "sidePanelUrl": "https://ORIGINE/sidepanel",
+        "supportsScreenSharing": false,
+        "addOnOrigins": ["https://ORIGINE"],
+        "logoUrl": "https://ORIGINE/logo.png",
+        "darkModeLogoUrl": "https://ORIGINE/logo.png"
+      }
+    }
+  }
+}
