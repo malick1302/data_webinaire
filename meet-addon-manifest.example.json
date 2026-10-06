@@ -2,15 +2,15 @@
   "addOns": {
     "common": {
       "name": "Webinaire interactif POC",
-      "logoUrl": "https://ORIGINE/logo.png"
+      "logoUrl": "https://mon-cours-en-ligne.netlify.app/logo.png"
     },
     "meet": {
       "web": {
-        "sidePanelUrl": "https://ORIGINE/sidepanel",
+        "sidePanelUrl": "https://mon-cours-en-ligne.netlify.app/sidepanel",
         "supportsScreenSharing": false,
-        "addOnOrigins": ["https://ORIGINE"],
-        "logoUrl": "https://ORIGINE/logo.png",
-        "darkModeLogoUrl": "https://ORIGINE/logo.png"
+        "addOnOrigins": ["https://mon-cours-en-ligne.netlify.app"],
+        "logoUrl": "https://mon-cours-en-ligne.netlify.app/logo.png",
+        "darkModeLogoUrl": "https://mon-cours-en-ligne.netlify.app/logo.png"
       }
     }
   }
